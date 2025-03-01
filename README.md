@@ -2,7 +2,7 @@
 
 ## Description
 
-Ce template permet de faire le suivi de la saisie des données sur le DHIS2. Des données simulées `fake_data.xlsx` sont donc utilisées pour réaliser ce document `Template_DHIS2_Rappport.pbit`.
+Ce template permet de faire le suivi de la saisie des données sur le DHIS2. Des données simulées `fake_data.xlsx` sont donc utilisées pour réaliser ce document `Template_DHIS2_Rappport.pbit`. Le rendu se présente dans le document pdf `Rapport_District_X.pdf`.
 
 ## Contenu
 
