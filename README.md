@@ -1,12 +1,10 @@
 # Template Suivi des Rapports 
-____
 
 ## Description
-___
+
 Ce template permet de faire le suivi de la saisie des données sur le DHIS2. Des données simulées `fake_data.xlsx` sont donc utilisées pour réaliser ce document `Template_DHIS2_Rappport.pbit`.
 
 ## Contenu
-____
 
 Dans ce rapport vous pouvez trouver les indicateurs comme:
 - taux de complétude des rapports saisies
@@ -14,7 +12,6 @@ Dans ce rapport vous pouvez trouver les indicateurs comme:
 
 
 ## Message
-____
 
 Partagez !!!! 
 Utilisez sans modération !!!
